@@ -1,0 +1,33 @@
+h2{
+	border-left:10px solid green;
+	border-bottom:2px solid green;
+	padding-left:3px;
+	
+}
+
+.fusen_blue{
+	border-right:20px solid #A0C8FF;
+	background-color:#DBE5FF;
+	color:#000;
+	height:30px;
+	width:200px;
+	font-size:20px;
+	text-align:left;
+	padding-top:10px;
+	padding-left:30px;
+	margin-bottom:2px;
+	font-weight: bold;
+	
+	
+}
+
+.Caution{
+	border:3px solid #A0C8FF;
+	background-color:#FFFFFF;
+	padding:10px;
+}
+
+.k_text_20{
+	font-size:20px;
+	color:red;
+}
